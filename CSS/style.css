@@ -1,0 +1,92 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.top{
+    color: violet;
+    border-top: none;
+    border-style: dotted;
+    border-width: 10px;
+}
+.intro{
+    text-align: center;
+    color: rgb(159, 88, 224);
+    text-align: center;
+    font-family:cursive;
+    margin-top: 60px;
+    line-height: 2;
+    font-size: 30px;
+}
+.msg{
+    height:20%;
+    margin: auto;
+}
+.ms-b{
+    height: 20%;
+    position: absolute;
+    top: 390px;
+    left: 1100px;
+}
+.ms-t{
+    height:30%;
+    position: absolute;
+    bottom: 290px;
+    left: 90px;
+}
+.pro{
+    display: inline;
+    margin: 10px;
+    line-height: 2;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.myimg{
+    border-radius: 100%;
+    margin-top: 70px;
+    height: 200px;
+}
+.nft-t{
+    height: 140px;
+    position: absolute;
+    top: 800px;
+    left: 100px;
+}
+.nft-b{
+    height: 170px;
+    position: absolute;
+    top:900px;
+    right: 200px;
+}
+hr{
+    margin: 50px auto 50px auto;   
+    width: 100px;
+    color: grey;
+    border-style: dotted;
+    border-bottom: none;
+    border-width: 10px;
+    margin-bottom: 100px;
+}
+.skills{
+    text-align: center;
+    align-content: center;
+}
+#coding{
+    border-radius: 100%;
+    border:dashed blue;
+    height: 200px;
+    
+}
+.f_skill{
+    text-align: center;
+    align-items: center;
+}
+.s_skill{
+    text-align: center;
+    align-items: center;
+}
+.bit{
+    border-radius: 100%;
+    border:dashed blue;
+    height: 350px   ;
+
+}
