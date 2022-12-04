@@ -18,7 +18,7 @@
     font-size: 30px;
 }
 .msg{
-    height:10%;
+    height:400px;
     margin: auto;
 }
 .ms-b{
@@ -28,6 +28,7 @@
     left: 1100px;
 }
 .ms-t{
+    display: inline;
     height:30%;
     position: absolute;
     bottom: 290px;
@@ -52,7 +53,7 @@
     left: 100px;
 }
 .nft-b{
-    height: 170px;
+    height: 5%;
     position: absolute;
     top:900px;
     right: 200px;
@@ -69,6 +70,7 @@ hr{
 .skills{
     text-align: center;
     align-content: center;
+    margin: 100px;
 }
 #coding{
     border-radius: 100%;
@@ -96,7 +98,7 @@ hr{
     color: white;
     background-color: rgb(179, 133, 222);
     height: 100px;
-    margin: 0px;
+    margin: 10px;
     padding: 0px;
 }
 .youtube{
