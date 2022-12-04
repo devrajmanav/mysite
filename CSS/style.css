@@ -90,3 +90,45 @@ hr{
     height: 350px   ;
 
 }
+.flotter{
+    line-height: 2;
+    text-align: center;
+    color: white;
+    background-color: rgb(179, 133, 222);
+    height: 100px;
+    margin: 0px;
+    padding: 0px;
+}
+.youtube{
+
+    text-decoration: none;
+    color: rgb(242, 12, 246);
+    position: relative;
+    top: 30px;
+    left: 300px;
+    line-height: 2;
+}
+.youtube:hover{
+    margin-top: 10px;
+    color: rgb(0, 0, 0);
+}
+.about{
+    position: relative;
+    top: 10px;
+}
+.contact{
+    
+    color: rgb(242, 12, 246);
+    position: relative;
+    top: 30px;
+    line-height: 2;
+    text-decoration: none;   
+}
+.insta{
+    color: rgb(242, 12, 246);
+    position: relative;
+    right: 300px;
+    top: 30px;
+    line-height: 2;
+    text-decoration: none;
+}
